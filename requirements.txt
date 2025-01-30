@@ -1,0 +1,8 @@
+networkx
+numpy
+pandas
+rdkit
+scipy
+torch
+torch_geometric
+tqdm
