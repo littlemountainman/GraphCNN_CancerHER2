@@ -1,5 +1,9 @@
 ## Graph Convolutional Neural Network for HER2 Cancer inhibitor search
 
+** Find more  info on my blogpost here **
+
+https://littlemountainman.github.io/2024/07/31/proteinher2/
+
 ### Installing Requirements:
 ```
 pip3 install -r requirements.txt
